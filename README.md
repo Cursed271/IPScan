@@ -24,7 +24,7 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
-Start the server
+Start IPScan
 
 ```bash
   python IPScan.py
