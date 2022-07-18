@@ -33,7 +33,7 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/CursedCancer/IPScan/blob/main/assets/Screenshot.png)
 
 
 ## Authors
