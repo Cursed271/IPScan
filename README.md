@@ -1,6 +1,6 @@
 # IPScan
 
-IP Scan is a ping sweeper written in python that lists all the available hosts on the network.
+A Ping Sweeper created in Python that lists all the available hosts on the Network. 
 
 ## Installation
 
