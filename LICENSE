@@ -1,0 +1,54 @@
+CURSEDSEC OWNERSHIP EDICT (COE)
+
+Copyright (c) 2025, CursedSec (Operated by Cursed271). 
+All rights reserved.
+
+1. DEFINITIONS
+
+1.1. Software: Refers to the original source code, executable binaries, documentation, and all associated materials within this repository, including all subsequent updates and versions released by CursedSec. 
+	
+1.2. Licensee/User: Any individual or entity that accesses, downloads, runs, or otherwise utilizes the Software. 
+	
+1.3. Proprietary Repository: The official GitHub repository controlled by Cursed271, acting on behalf of CursedSec, where this Software is exclusively maintained. 
+	
+1.4. Derivative Work: Any modification, adaptation, translation, enhancement, improvement, or other alteration of the Software, regardless of the extent of changes.
+
+2. GRANT OF LICENSE
+
+2.1. CursedSec hereby grants the Licensee a limited, non-exclusive, non-sublicensable, and non-transferable right to use the Software for internal personal, educational, research, or organizational purposes (the "Permitted Use"). 
+
+2.2. The Licensee is permitted to run, execute, and utilize the Software solely on systems and hardware directly under the Licensee's operational control.
+
+3. EXPRESS PROHIBITIONS
+
+The Licensee is strictly and unequivocally prohibited from performing, or enabling any third party to perform, the following actions:
+
+3.1. Unauthorized Redistribution: Distributing, selling, licensing, sublicensing, leasing, loaning, renting, publishing, or otherwise transferring copies of the Software, in whole or in part, to any third party. This specifically prohibits re-uploading the Software to any non-Proprietary Repository (e.g., other GitHub accounts, GitLab, private servers, etc.). 
+		
+3.2. Unauthorized Modification: Creating any Derivative Work of the Software outside of the express contribution terms defined in Section 4. 
+		
+3.3. Reverse Engineering: Decompiling, disassembling, reverse engineering, or otherwise attempting to discover the source code, underlying structure, or proprietary methodologies of the Software. 
+		
+3.4. Removal of Notices: Removing, altering, or obscuring any copyright, trademark, or proprietary rights notices (including those referencing CursedSec or Cursed271) embedded within the Software or its documentation. 
+		
+3.5. Misrepresentation: Claiming ownership, authorship, or sponsorship of the Software.
+
+4. SOLE EXCEPTION AND REQUIRED CONTRIBUTION
+
+4.1. Contribution Gateway: The creation of Derivative Works is permitted only through the official contribution mechanism of the Proprietary Repository, via approved and merged Pull Requests (PRs). 
+	
+4.2. Mandatory Assignment of Rights: By submitting a Pull Request, the Licensee explicitly and irrevocably agrees to assign all rights, title, and interest in and to the submitted contribution (the Derivative Work) to CursedSec. This ensures that all intellectual property remains the exclusive, fully-owned property of CursedSec.
+
+5. TERMINATION AND ENFORCEMENT
+
+5.1. Immediate Termination: This license will terminate immediately and automatically without notice if the Licensee breaches any term herein. 
+		
+5.2. Legal Enforcement: Any violation of this license, particularly the prohibitions in Section 3, constitutes immediate grounds for legal action by CursedSec, including claims for damages, statutory penalties, and injunctive relief, enforced to the maximum extent permitted by law. CursedSec maintains a zero-tolerance policy for unauthorized use and distribution.
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. CURSEDSEC DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+For more details, visit:
+🔗 Repository: https://github.com/Cursed271
+🔗 Author: Steven Pereira (@Cursed271)
