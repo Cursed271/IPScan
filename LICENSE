@@ -1,0 +1,180 @@
+================================================================================
+                       CURSEDSEC OWNERSHIP EDICT (COE)
+================================================================================
+Copyright (c) 2025-2026 CursedSec. All rights reserved.
+Operated by Steven Pereira (@Cursed271).
+Official Portal: https://github.com/Cursed271 | https://www.cursedsec.com
+
+IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE ACCESSING, DOWNLOADING,
+OR USING THE SOFTWARE. BY ACCESSING, CLONING, DOWNLOADING, COMPILING, OR 
+OTHERWISE UTILIZING ANY COMPONENT OF THE SOFTWARE, YOU ("LICENSEE") UNCONDITIONALLY 
+AGREE TO BE BOUND BY ALL TERMS AND CONDITIONS OF THIS CURSEDSEC OWNERSHIP EDICT.
+IF YOU DO NOT AGREE, DO NOT ACCESS, CLONE, RUN, OR RETAIN COPIES OF THIS SOFTWARE.
+
+================================================================================
+1. DEFINITIONS
+================================================================================
+
+1.1. "Licensor" or "CursedSec": Refers to Steven Pereira (@Cursed271), operating 
+     as CursedSec, who holds exclusive copyright, moral rights, and intellectual 
+     property ownership of the Software.
+
+1.2. "Software": Refers to all computer software, raw source code, scripts, binaries, 
+     compiled objects, documentation, interfaces, graphics, architectural designs, 
+     and associated data contained within this repository, including all official 
+     updates, revisions, and patches released by Licensor.
+
+1.3. "Licensee": Any natural person, corporation, organization, or entity that 
+     accesses, downloads, clones, inspects, executes, or otherwise interacts with 
+     the Software.
+
+1.4. "Proprietary Repository": The official, authenticated digital repositories 
+     directly operated and maintained by CursedSec (principally hosted under the 
+     organization/user namespace https://github.com/Cursed271).
+
+1.5. "Derivative Work": Any modification, branch, fork, adaptation, enhancement, 
+     transpilation, translation, sub-module, wrapper, port, or work based upon 
+     or incorporating any portion of the Software.
+
+================================================================================
+2. LIMITED GRANT OF LICENSE
+================================================================================
+
+2.1. Grant of Internal License: Subject to strict compliance with all terms of 
+     this Edict, Licensor hereby grants Licensee a limited, revocable, non-exclusive, 
+     non-sublicensable, non-transferable license solely to execute, test, and 
+     inspect the Software for internal, personal, educational, security research, 
+     or defensive audit purposes ("Permitted Use").
+
+2.2. Systems Limitation: The Software may only be executed on hardware, systems, 
+     or virtual instances owned, leased, or directly controlled by Licensee, or 
+     where Licensee has received explicit, authenticated authorization to perform 
+     security assessments.
+
+2.3. Reservation of Rights: All rights, title, and interest not expressly granted 
+     to Licensee under Section 2.1 are strictly and exclusively reserved by Licensor. 
+     No implied licenses are granted under patent, trade secret, or copyright law.
+
+================================================================================
+3. RESTRICTIONS AND PROHIBITIONS
+================================================================================
+
+Licensee shall not, and shall not cause or permit any third party to:
+
+3.1. Unauthorized Redistribution and Hosting: Copy, mirror, re-upload, distribute, 
+     sublicense, lease, rent, sell, time-share, or make available any portion of the 
+     Software on any public or private network, server, package manager, or external 
+     version-control repository (including, but not limited to, external GitHub, 
+     GitLab, Bitbucket, or self-hosted Git repositories).
+     *Note on GitHub Forks:* Forking this repository via GitHub is strictly 
+     permitted solely for the bona fide purpose of preparing and submitting an 
+     upstream Pull Request directly to the Proprietary Repository pursuant to 
+     Section 4. Any retained, detached, or independent public fork not actively 
+     linked to an open or intended upstream Pull Request constitutes a direct 
+     breach of this Edict.
+
+3.2. Commercial Exploitation and SaaS Delivery: Offer, package, integrate, or 
+     deliver the Software as a managed service, Software-as-a-Service (SaaS), 
+     commercial security product, paid penetration-testing framework, or commercial 
+     deliverable without prior written licensing agreement executed with Licensor.
+
+3.3. Proprietary Extraction and Integration: Incorporate, bundle, or transplant 
+     the Software's proprietary logic, payloads, evasion techniques, algorithms, 
+     or data structures into third-party codebases, commercial toolsets, or 
+     unauthorized derivative platforms.
+
+3.4. Notice Integrity: Remove, obscure, redact, or alter any copyright notice, 
+     trademark, watermarking, attribution headers, or proprietary rights legends 
+     affixed to or embedded within the Software or documentation.
+
+3.5. Misrepresentation and Trademark: Misrepresent authorship or claim sponsorship, 
+     endorsement, or affiliation with CursedSec or Steven Pereira. Licensee shall 
+     not use the name "CursedSec" or "Cursed271" for publicity or promotional 
+     purposes without prior written authorization.
+
+================================================================================
+4. CONTRIBUTIONS AND INTELLECTUAL PROPERTY ASSIGNMENT
+================================================================================
+
+4.1. Exclusive Contribution Channel: Any proposed bug fixes, enhancements, or 
+     Derivative Works may only be developed and submitted through the official 
+     Pull Request mechanism of the Proprietary Repository.
+
+4.2. Irrevocable Assignment: By submitting any Pull Request, commit, patch, or 
+     code proposal ("Contribution") to the Proprietary Repository, Licensee 
+     unconditionally and irrevocably assigns to Licensor all worldwide rights, 
+     title, and interest (including copyright, patent, trade secret, and related IP 
+     rights) in and to the Contribution.
+
+4.3. Moral Rights and Fallback License: Licensee waives all moral rights, rights 
+     of attribution, and integrity to the maximum extent permitted by law. In any 
+     jurisdiction where complete legal assignment of copyright is not recognized, 
+     Licensee hereby grants Licensor an exclusive, perpetual, irrevocable, fully 
+     paid-up, royalty-free, transferable, sublicensable, worldwide license to use, 
+     modify, monetize, license, and exploit the Contribution in any manner Licensor 
+     deems fit.
+
+================================================================================
+5. TERMINATION AND INJUNCTIVE RELIEF
+================================================================================
+
+5.1. Automatic Termination: This Edict and all licenses granted hereunder shall 
+     terminate immediately, automatically, and without notice upon any breach by 
+     Licensee of any provision herein.
+
+5.2. Post-Termination Obligations: Upon termination, Licensee shall immediately 
+     cease all use of the Software, purge all local clones, and destroy all copies, 
+     backups, and documentation in Licensee's possession or control.
+
+5.3. Injunctive Relief: Licensee acknowledges that any violation of Sections 3 or 4 
+     will cause irreparable harm to Licensor for which monetary damages alone would 
+     be inadequate. Licensor shall be entitled to seek immediate preliminary and 
+     permanent injunctive relief, specific performance, and statutory remedies in 
+     any court of competent jurisdiction without the necessity of posting bond.
+
+================================================================================
+6. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+================================================================================
+
+6.1. "AS IS" Disclaimer: THE SOFTWARE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" 
+     BASIS, WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR 
+     OTHERWISE. LICENSOR SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF 
+     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND 
+     QUIET ENJOYMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, 
+     SECURE, COMPLIANT WITH SYSTEM AUDITS, OR IMMUNE FROM DEFENSIVE DETECTION.
+
+6.2. Limitation of Liability: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN 
+     NO EVENT SHALL CURSEDSEC, STEVEN PEREIRA, OR AFFILIATED OPERATORS BE LIABLE FOR 
+     ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL 
+     DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
+     SERVICES, SYSTEM COMPROMISE, LOSS OF USE, LOSS OF REVENUE OR PROFITS, DATA LOSS, 
+     NETWORK DOWNTIME, REGULATORY FINES, OR SUSPENSIONS) ARISING IN ANY WAY OUT OF 
+     THE USE, EXECUTION, MISUSE, OR INABILITY TO USE THIS SOFTWARE, EVEN IF ADVISED 
+     OF THE POSSIBILITY OF SUCH DAMAGE.
+
+6.3. Licensee Indemnification: Licensee agrees to defend, indemnify, and hold harmless 
+     Licensor from and against any claims, liabilities, damages, losses, costs, or 
+     expenses (including reasonable attorneys' fees) arising out of Licensee's 
+     unauthorized use, execution on non-consenting systems, or breach of this Edict.
+
+================================================================================
+7. MISCELLANEOUS & SEVERABILITY
+================================================================================
+
+7.1. Severability: If any provision of this Edict is held to be invalid, illegal, or 
+     unenforceable by a court of competent jurisdiction, the remaining provisions 
+     shall remain in full force and effect, and the invalid provision shall be enforced 
+     to the maximum extent legally permissible to achieve Licensor's intent.
+
+7.2. Entire Agreement: This Edict constitutes the complete and exclusive agreement 
+     between Licensee and Licensor regarding the Software and supersedes all prior 
+     understandings or communications.
+
+================================================================================
+AUTHOR AND CONTACT
+================================================================================
+Steven Pereira (@Cursed271)
+Website:     https://www.cursedsec.com
+GitHub:      https://github.com/Cursed271
+LinkedIn:    https://www.linkedin.com/in/cursed271/
+================================================================================
